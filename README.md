@@ -1,7 +1,25 @@
 <h1 align="center">Hi 👋, I'm Ravi Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [no](no)
+- 🔭 I’m currently working on [empty](empty)
+
+- 🌱 I’m currently learning **empty**
+
+- 👯 I’m looking to collaborate on [empty](empty)
+
+- 🤝 I’m looking for help with [empty](empty)
+
+- 👨‍💻 All of my projects are available at [empty](empty)
+
+- 📝 I regularly write articles on [empty](empty)
+
+- 💬 Ask me about **empty**
+
+- 📫 How to reach me **empty**
+
+- 📄 Know about my experiences [empty](empty)
+
+- ⚡ Fun fact **empty**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
